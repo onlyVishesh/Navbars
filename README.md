@@ -8,6 +8,10 @@ This is a project given by GDSC. They instructed us to create a responsive navba
 
 Here is a quick look of the page -
 
+
+https://github.com/onlyVishesh/Navbars/assets/121187728/fc16e2d4-e4a7-4c6a-9864-c6b998308a11
+
+
 ### Built With
 
 This project is build using -
